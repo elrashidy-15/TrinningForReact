@@ -1,0 +1,22 @@
+.tagbutton {
+  background-color: rgb(240, 0, 240);
+  border: none;
+  color: white;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px 7px rgba(0, 0, 0, 0.5);
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.tagbutton:hover {
+  background-color: rgb(107, 72, 110);
+  cursor: pointer;
+}
